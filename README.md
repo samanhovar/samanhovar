@@ -1,6 +1,7 @@
-- Hi, I’m @samanhur
+- Hi, I’m @samanhovar
 - I’m Mathematics student
-- I’m currently learning Python, Data analytics
+- I’m currently learning Python, Web development
+- My next goal is learning AI
 
 <!---
 samanhur/samanhur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
