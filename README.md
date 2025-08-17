@@ -1,6 +1,6 @@
 - Hi, I’m @samanhovar
 - I’m Mathematics student
-- I’m currently learning Python, Web development
+- I’m currently learning Web development with python (django)
 - My next goal is learning AI
 
 <!---
